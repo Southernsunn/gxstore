@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+
+#bodyContainer {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  min-height: 100vh;
+}
+
+footer {
+  align-self: flex-end;
+  background-color: #23252b;
+  line-height: 3;
+  color: #fdfdfe;
+  width: 100%;
+}
